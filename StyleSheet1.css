@@ -1,0 +1,228 @@
+﻿* {
+    margin: 0 auto;
+}
+
+
+.main {
+    width: 1200px;
+    height: 500px;
+    /* background-color:#F7C5CC;*/
+    background-color: black;
+    background-image: url('../images/food-bank_46.jpg');
+}
+.main1 {
+    width: 1200px;
+    height: 500px;
+    /* background-color:#F7C5CC;*/
+    background-color: black;
+    background-image: url('../images/food-bank_69.jpg');
+}
+.main2 {
+    width: 1200px;
+    height: 500px;
+    /* background-color:#F7C5CC;*/
+    background-color: black;
+    background-image: url('../images/food-bank_88 (2).jpg');
+}
+.box1{
+   
+    height:110px;
+    width:1200px;
+  
+}
+.box {
+    height: 120px;
+    width: 1200px;
+}
+.box11 {
+   
+    width: 450px;
+    height: 200px;
+    float: left;
+    margin-left: 60px;
+    margin-top:20px;
+}
+.box1 {
+    width: 500px;
+    height: 100px;
+    float: left;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.box2 {
+   
+    width: 450px;
+    height: 200px;
+    float: right;
+    margin-right: 60px;
+    margin-top: 40px;
+
+}
+.box22{
+    width: 450px;
+    height: 200px;
+    float: right;
+    margin-right: 60px;
+    margin-top: 40px;
+}
+
+.header1 {
+    width: 1200px;
+    height: 70px;
+    background-color:white;
+        /*#f77a22e2;*/
+        z-index:5;
+}
+.header {
+    width: 1200px;
+    height: 50px;
+    background-color: white;
+    /*#f77a22e2;*/
+    z-index: 5;
+}
+
+a {
+    padding: 15px;
+    margin-top: -50px;
+    font-size: 15px;
+    font-weight: bold;
+    font-style:normal;
+}
+
+
+.line {
+    width: 700px;
+    height: 25px;
+   /* float: right;*/
+    margin-top: 15px;
+}
+.line1 {
+    width: 600px;
+    height: 25px;
+    float: right;
+    margin-top: 15px;
+}
+
+.Paragraph {
+    width: 60%;
+    height: 200px;
+    float: left;
+    margin-top: 30px;
+    margin-right: 20px;
+   
+   
+}
+.Paragraph1 {
+    width: 60%;
+    height: 200px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;
+    
+}
+.para{
+    width:1200px;
+    height:400px;
+    background-color:white;
+   
+}
+
+.para2{
+    width: 600px;
+    height: 900px;
+   
+   float:left;
+    background-color: white;
+}
+.image {
+    width: 590px;
+    height: 300px;
+    border: solid;
+}
+.event {
+    width: 600px;
+    height: 900px;
+    float: right;
+    background-color: white;
+}
+.text1{
+    height:200px;
+    width:200px;
+    
+    float:left;
+}
+.text2 {
+    height: 200px;
+    width: 200px;
+    float:right;
+   
+}
+.logo{
+    width:130px;
+    height:160px;
+    
+    
+}
+.pic {
+    width: 1200px;
+    height: 400px;
+   background-image: url('../images/food-bank_46 (2).jpg');
+   margin-top:420px;
+}
+.b3 {
+    width: 400px;
+    height: 300px;
+  
+    float: right;
+    background-image: url('../images/food-bank_63 (2).jpg');
+}
+.b4 {
+    width: 280px;
+    height: 200px;
+   
+    float: right;
+    margin-top:120px;
+}
+.para1 {
+    width: 1200px;
+    height: 450px;
+    background-color: white;
+    
+    float:left;
+}
+
+/*.Img {
+    height: 400px;
+    width: 407px;
+    float: right;
+    margin-right: 40px;
+    margin-top: -110px;
+    background-image: url('my-removebg-preview.png');
+}*/
+
+.Footer {
+    width: 1200px;
+    height: 200px;
+    background-color: black;
+    
+}
+
+.foot {
+    width: 1200px;
+    height: 50px;
+    background-color: black;
+}
+/*.box1 {
+   
+    width: 300px;
+    background-color: wheat;
+    border:1px solid black;
+}*/
+.bottom {
+    height: 30px;
+    width: 1000px;
+    background-color: white;
+    float: left;
+    margin-left: 40px;
+    border: solid;
+}
